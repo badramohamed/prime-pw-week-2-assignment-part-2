@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we set the variable to name annd the example is dane. 
+// if name is a true and exact match to mary than we shoild console log it to hi marry
+// in this case it is not true or an exact match 
+// else { console.log ('How do you do?'); }
 
 //CODE
 /*
@@ -45,7 +45,7 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
+//  
 // 
 // 
 //

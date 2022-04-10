@@ -26,8 +26,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// we set the variable to name annd the example is dane. 
-// if name is a true and exact match to mary than we shoild console log it to hi marry
+// we set the variable to name and the example is dane. 
+// if name is a true and exact match to mary than we should console log it to hi marry
 // in this case it is not true or an exact match 
 // else { console.log ('How do you do?'); }
 
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//  
-// 
-// 
-//
+//  Let secret was not given a constant in this case she can be super or duper
+//  let code is equal to 123 but it can also change because it includes numbers and is not in " "
+// 123 x 2 is 246
+// console.log (secret) bc the code is not greater than 250 making secret not duper
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// zip code is not greater than 80000 which means it is false 
+//  so then we will proceed to check if age is less than 30 which means it is false his age is 34
+// let is student which means it is true else if (isStudent ====true ) {console.log ('welcome to prime!') } it is true, student is true and we are at prime! and his username is isStudent funnn
+// this will mean we dont have to proceed to the next else and ask about the weather. 
 
 //CODE
 /*
@@ -130,15 +130,14 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'blue';
+let colorTwo = 'red';
 let mix = true;
 
 if (mix === true) {
-  colorOne = 'purple';
+  colorOne + colorTwo = 'purple';
 }
-*/
-
+*/ 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
@@ -160,10 +159,10 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-if(minAge <= age) {
+if(minAge >= age) {
   console.log('no entry');
 } else {
   console.log('enter');
 }
-*/
+*/ 
 

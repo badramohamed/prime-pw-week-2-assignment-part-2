@@ -134,9 +134,13 @@ let colorOne = 'blue';
 let colorTwo = 'red';
 let mix = true;
 
-if (mix === true) {
-  colorOne + colorTwo = 'purple';
+if (mix === true) 
+{
+ colorOne = 'purple';
+ colorTwo = 'purple';
 }
+
+
 */ 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
